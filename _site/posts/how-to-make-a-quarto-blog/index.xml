@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>blog</title>
-<link>https://your-website-url.example.com/posts/how-to-make-a-quarto-blog/</link>
-<atom:link href="https://your-website-url.example.com/posts/how-to-make-a-quarto-blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://aulund.github.io/blog/posts/how-to-make-a-quarto-blog/</link>
+<atom:link href="https://aulund.github.io/blog/posts/how-to-make-a-quarto-blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <image>
-<url>https://your-website-url.example.com/thumbnail.jpg</url>
+<url>https://aulund.github.io/blog/thumbnail.jpg</url>
 <title>blog</title>
-<link>https://your-website-url.example.com/posts/how-to-make-a-quarto-blog/</link>
+<link>https://aulund.github.io/blog/posts/how-to-make-a-quarto-blog/</link>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 06 Oct 2025 11:35:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 12:05:16 GMT</lastBuildDate>
 </channel>
 </rss>

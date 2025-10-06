@@ -1,9 +1,13 @@
 project:
   type: website
+  output-dir: docs
+  
+execute:
+  freeze: auto
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://aulund.github.io/blog
   title: "blog"
   navbar:
     right:
@@ -15,8 +19,7 @@ website:
 format:
   html:
     theme:
-      - cerulean
-      - brand
+      - solar
     css: styles.css
 
 
