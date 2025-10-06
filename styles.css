@@ -1,1 +1,6 @@
 /* css styles */
+body {
+  background-color: #4F0433;
+  /* or */
+  /* background-color: rgb(79, 4, 51); */
+}
