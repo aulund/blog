@@ -1,0 +1,26 @@
+---
+title: "How to Make a Quarto Blog"
+author: "August Lundholm"
+date: 2025-10-06
+categories: [tutorial, quarto]
+image: thumbnail.jpg
+listing:
+    contents: ../../posts
+    feed: true
+    sort: date desc
+    type: default
+    categories: true
+---
+
+Welcome to your new Quarto blog post!
+
+## Steps to Create a Quarto Blog
+
+1. Install Quarto: https://quarto.org/docs/get-started/
+2. Create a new project folder.
+3. Add a `_quarto.yml` configuration file.
+4. Create posts in the `posts/` directory, each in its own folder with an `index.qmd` file.
+5. Customize your blog with themes and CSS.
+6. Render your site with `quarto render`.
+
+Happy blogging!

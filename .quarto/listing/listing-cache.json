@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "posts/how-to-make-a-quarto-blog/index.qmd": [
+      "../../posts"
+    ],
+    "index.qmd": [
+      "posts"
+    ]
+  }
+}
